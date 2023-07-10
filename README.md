@@ -1,9 +1,8 @@
 ### Hi there 👋
 A budding engineer specializing in Computer and Communication Engineering proficient in C and Python and with good interpersonal skills and an ability to solve problems in teams and handle responsibility independently, seeking for a position to contribute and grow with the organization in the long term while enhancing domain experience.
 
-Areas of Interest:
-IoT
-Machine Learning
+Areas of Interest:    
+IoT, Machine Learning
 <!--
 **Vishaline/Vishaline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
